@@ -1,0 +1,99 @@
+.navbar-nav{
+    background-color:;
+    color: white;
+    font-weight:400;
+    
+    font-size:large ;
+}
+
+body{
+    background-color:black;
+
+    
+    color:white;
+}
+.media{
+      color:white
+    
+    
+}
+h3{
+    font-weight:500;
+    font-size:xx-large;
+    
+}
+
+    
+
+.education{
+    padding: 50px;
+    font-size: larger;
+    
+    
+}
+.contact{
+    color:white;
+    margin: 20px auto;
+    padding: 50px;
+    font-size: larger;
+     
+}
+.medias{
+    color: white;
+}
+
+.home__image{
+    width:50%;
+    padding-top:50px;
+    
+}
+
+
+
+    
+
+.about__me{
+     margin: 20px auto;
+     padding: 50px;
+    justify-content:space-between;
+    text-align:left;
+    font-size: larger;
+}
+
+     
+    
+    
+    
+    
+
+
+h1,h2,h3,h4{
+    color:#B55400;
+}
+.myself{
+    font-size: larger;
+}
+
+
+
+    
+
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: xx-large;
+}
+h4{
+    font-size: xx-large;
+}
+.container{
+    font-size: large;
+}
+    
+
+
+    
+    
+    
+    

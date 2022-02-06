@@ -1,0 +1,23 @@
+ /* footer */
+ #footer{
+     background-color:#19282F;
+     text-align: center;
+     
+ }
+ .media{
+     color: white;
+
+ }
+
+ .media:hover{
+     color:hotpink;
+     transform: scale(2);
+ }
+
+
+ .home__image{
+     width:60%;
+ }
+ #home{
+     background-color:#F94892;
+ }
